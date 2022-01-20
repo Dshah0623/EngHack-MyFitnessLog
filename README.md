@@ -1,47 +1,52 @@
 EngHack Python Quest
 
-Fitness Log:
 
-Calorie Tracker - Seperated into 4 categories : Breakfast, Lunch, Dinner, Snack
+  Fitness Log:
 
-Function: 
+    Calorie Tracker - Seperated into 4 categories : Breakfast, Lunch, Dinner, Snack
 
-Calculate how many calories a person needs in a day 
-Initial calories - calories consumed 
-Adding all Consumed calories 
 
-Calorie Deficit 
-Calorie Surplus 
-Calorie Maintain
+  Function: 
 
-String to input 
+    Calculate how many calories a person needs in a day 
+    Initial calories - calories consumed 
+    Adding all Consumed calories 
 
-How to input food name and their calories or API 
+    Calorie Deficit 
+    Calorie Surplus 
+    Calorie Maintain
 
-end 
-Fitness Log
+    String to input 
 
-Functions:
+    How to input food name and their calories or API 
 
-Class for recording excercise weight reps sets
-string to ask for alll that etc
+  end 
 
-# of workouts 
-Output
 
-Asks bunch of questions each answer is recorded and sorted according to the answer respective to the question 
-prints out:
+    Fitness Log
 
-Calories Reccommended: 
-Calories Consumed:
-Food Ate:
+      Functions:
 
-Workout #:
+        Class for recording excercise weight reps sets
+        string to ask for alll that etc
 
-Exercise# :
-Lbs:
-Reps:
-Sets:
+        # of workouts 
+        Output
 
-Exercise #...
+        Asks bunch of questions each answer is recorded and sorted according to the answer respective to the question 
+        prints out:
+
+        Calories Reccommended: 
+        Calories Consumed:
+        Food Ate:
+
+        Workout #:
+
+        Exercise# :
+        Lbs:
+        Reps:
+        Sets:
+
+        Exercise #...
+        
 Finish
